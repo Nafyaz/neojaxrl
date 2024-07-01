@@ -1,0 +1,12 @@
+jax
+numpy
+gym
+ml_collections
+tqdm
+wandb
+flax
+d4rl
+optax
+imageio
+dm_control
+setuptools
